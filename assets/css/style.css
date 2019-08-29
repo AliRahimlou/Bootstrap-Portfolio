@@ -1,5 +1,6 @@
 body{
-    background-image: url(assets/images/prism.png);
+	background-image: url("../images/prism.png")
+	
 }
 
 
